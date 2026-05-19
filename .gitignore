@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+streamlit_out.txt
+streamlit_err.txt
+.streamlit/
